@@ -3,8 +3,8 @@ class Hybrisight < Formula
 
   desc "Deterministic cloud governance assessment CLI for AWS and Azure"
   homepage "https://hybrisight.agapii.org"
-  url "https://files.pythonhosted.org/packages/source/h/hybrisight/hybrisight-0.1.2.tar.gz"
-  sha256 "1a96cd7677b319700e0b17a5162d5ed10489231348938ed590dfa57fa152bb95"
+  url "https://files.pythonhosted.org/packages/source/h/hybrisight/hybrisight-0.1.3.tar.gz"
+  sha256 "9bcbb850245df0a3ae96ebd1df93bb2adca490551ca498acff2a0545ef251e67"
   license "Apache-2.0"
   revision 1
 
